@@ -1,6 +1,6 @@
 # 📊 Strategic Online Sales Performance Dashboard
 
-![Dashboard Preview]([INSERT_YOUR_SCREENSHOT_LINK_HERE])
+![Dashboard Preview]([[INSERT_YOUR_SCREENSHOT_LINK_HERE](https://github.com/AlejandroMeyer/powerbi-strategic-sales-dashboard/blob/main/images/sales_dashboard.png)])
 
 ## 📌 Project Overview
 This project is an interactive, executive-level (C-Level) dashboard developed in Power BI. It is designed to monitor and analyze the strategic online and in-store sales performance for the company "AMC". The primary focus was combining robust data analysis with clean, minimalist UI/UX design principles to deliver actionable insights at a glance.
