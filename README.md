@@ -19,7 +19,7 @@ This project is an interactive, executive-level (C-Level) dashboard developed in
 
 ## 💡 Interactivity Demo
 
-![Dashboard Interactivity](images/sales_dashboard.png)
+![Dashboard Interactivity](images/sales_dashboard.mp4)
 
 *Note: Notice how cross-filtering instantly updates the KPIs and the global map, and how the DAX-driven conditional formatting automatically highlights the category leader in real-time depending on the selected filters.*
 
