@@ -21,7 +21,6 @@ This project is an interactive, executive-level (C-Level) dashboard developed in
 
 https://github.com/user-attachments/assets/ad390ce9-f56d-4d17-b075-8820c040483c
 
-<video src="https://raw.githubusercontent.com/AlejandroMeyer/powerbi-strategic-sales-dashboard/main/images/sales_dashboard.mp4" controls="controls" width="100%"></video>
 *Note: Notice how cross-filtering instantly updates the KPIs and the global map, and how the DAX-driven conditional formatting automatically highlights the category leader in real-time depending on the selected filters.*
 
 ## 📂 Data Structure
